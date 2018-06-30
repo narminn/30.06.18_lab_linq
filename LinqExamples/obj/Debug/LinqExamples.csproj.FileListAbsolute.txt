@@ -1,0 +1,7 @@
+D:\nemis\c# tasks\LinqExamples\LinqExamples\bin\Debug\LinqExamples.exe.config
+D:\nemis\c# tasks\LinqExamples\LinqExamples\bin\Debug\LinqExamples.exe
+D:\nemis\c# tasks\LinqExamples\LinqExamples\bin\Debug\LinqExamples.pdb
+D:\nemis\c# tasks\LinqExamples\LinqExamples\obj\Debug\LinqExamples.csprojResolveAssemblyReference.cache
+D:\nemis\c# tasks\LinqExamples\LinqExamples\obj\Debug\LinqExamples.csproj.CoreCompileInputs.cache
+D:\nemis\c# tasks\LinqExamples\LinqExamples\obj\Debug\LinqExamples.exe
+D:\nemis\c# tasks\LinqExamples\LinqExamples\obj\Debug\LinqExamples.pdb
